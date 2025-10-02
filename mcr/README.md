@@ -13,19 +13,19 @@ Finálový turnaj Tipsport MČR CS každoročně patří mezi hlavní taháky He
 ---
 
 ## Additional Information
-A definition of the filters to the VRS that Direct VRS Invites will be based on: Regional ranking for Europe as of October 6, only CZ/SK region (3 out of 5 players must be from CZ/SK)
-The VRS rank from which tournament organizer will begin invitations: TOP 1 CZ/SK team
-The number of rosters subject to a Direct VRS Invite and/or Wildcard Invite: 4 teams – if there are not enough teams to invite, the unfilled invited slots will be replaced by qualification
-The invitation date: October 6th
-The VRS publication date from which Direct VRS Invites will be issued: October 6th
-The VRS publication date which will be used for seeding: October 6th
-The visa region where the tournament takes place: Schengen
-Whether an Open Qualifier will be part of the tournament and, if so, the rules for such an Open Qualifier
-Which tournament stages are online or LAN: Online Qualifier, LAN Playoffs
-Total prize pool: 1 250 000 CZK (60 518,48 $)
-1st: 750 000 CZK (36 320,76 $)
-2nd: 350 000 CZK (16 941,11 $)
-3rd: 100 000 CZK (4 840,32 $)
-4th: 50 000 CZK (2 420,16 $)
-Accommodation provided for the duration of the tournament from the media day to one day after the end of the tournament
-Contribution of 10 000 CZK for travel expenses per team
+A definition of the filters to the VRS that Direct VRS Invites will be based on: Regional ranking for Europe as of October 6, only CZ/SK region (3 out of 5 players must be from CZ/SK)  
+The VRS rank from which tournament organizer will begin invitations: TOP 1 CZ/SK team  
+The number of rosters subject to a Direct VRS Invite and/or Wildcard Invite: 4 teams – if there are not enough teams to invite, the unfilled invited slots will be replaced by qualification  
+The invitation date: October 6th  
+The VRS publication date from which Direct VRS Invites will be issued: October 6th  
+The VRS publication date which will be used for seeding: October 6th  
+The visa region where the tournament takes place: Schengen  
+Whether an Open Qualifier will be part of the tournament and, if so, the rules for such an Open Qualifier  
+Which tournament stages are online or LAN: Online Qualifier, LAN Playoffs  
+Total prize pool: 1 250 000 CZK (60 518,48 $)  
+1st: 750 000 CZK (36 320,76 $)  
+2nd: 350 000 CZK (16 941,11 $)  
+3rd: 100 000 CZK (4 840,32 $)  
+4th: 50 000 CZK (2 420,16 $)  
+Accommodation provided for the duration of the tournament from the media day to one day after the end of the tournament  
+Contribution of 10 000 CZK for travel expenses per team  
