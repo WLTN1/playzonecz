@@ -4,7 +4,7 @@
 - Location: Brno, Czechia
 - Venue: BVV Trade Fairs
 - Teams: 4
-- Announcement: https://www.playzone.cz/clanky/227391-nenech-si-ujit-counter-strike-elitu-vstupenky-na-tipsport-mcr…
+- Announcement: https://www.playzone.cz/clanky/227391-nenech-si-ujit-counter-strike-elitu-vstupenky-na-tipsport-mcr-cs-zakoupis-ve
 ---
 ## Additional Information
 - A definition of the filters to the VRS that Direct VRS Invites will be based on: Regional ranking for Europe as of October 6, only CZ/SK region (3 out of 5 players must be from CZ/SK)
