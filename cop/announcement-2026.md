@@ -8,10 +8,10 @@
 ## Tournament Format
 - 16-team tournament consisting of 12 invited teams and 4 qualified teams with online/LAN stages
 - From April 12 to 27, all 16 teams will play 5-round online Swiss Stage, all matches are broadcasted
-- First two rounds and 1-1 matches of Swiss Stage are played as BO1, other matches are played as BO3
-- Teams with 3 wins in Swiss Stage will advance to online Decider Stage, teams with 3 loses are eliminated
-- Decider Stage consists of 4 matches played 28 and 29 April, the winners will advance to the LAN stage
-- From May 22 to 24, the best 4 teams from online all the stages will attend the LAN Finals in Prague
+- 0-0, 0-1, 1-0 and 1-1 matches of Swiss Stage are BO1, all remaining matches are played as BO3
+- 3-0 teams advance directly to the LAN Finals, 3-1 and 3-2 teams moves into the online Decider Stage
+- Decider Stage consists of a 6-team Single Elimination bracket, two teams qualify to the LAN Finals
+- From May 22 to 24, the top 4 teams from all online stages will compete in a live tournament in Prague
 ## Additional Information
 - A definition of the filters to the VRS that Direct VRS Invites will be based on: March VRS Europe ranking excluding teams that include players from Russia, and Kazakhstan
 - The VRS rank from which tournament organizer will begin invitations: Rank 13
