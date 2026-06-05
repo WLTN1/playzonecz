@@ -1,18 +1,22 @@
 # Tipsport Open Cup #1
 - Start Date: 2026-08-05
 - End Date: 2026-08-09
-- Location: Prague
-- Teams: 12
+- Region: Worldwide (Buy-in LAN)
+- Location: Vodafone PLAYzone Arena, Prague
 - Announcement + additional information: https://www.playzone.cz/clanky/229447-dnes-vecer-spustime-registrace-na-nas-mezinarodni-turnaj-tipsport-open-cup-1
 ---
+## Registration Process
+- Fill the official team application form – available on June 5 at 8 PM (CEST): https://forms.office.com/e/kG0u9RwB6S
+- Once submitted, we will send you payment details for the participation fee: €1,200 + VAT
+- If payment is not made within 72 hours, we will move on to the team next in line
+- A total of 12 teams will be accepted on a first-come, first-served basis
 ## Tournament Format
-- Location: Vodafone PLAYzone Arena, Prague
 - Group Stage: 5–6 August (Round Robin)
 - Playoffs: 7–9 August (Double Elimination)
 - All matches are Best-of-Three
 - Seeding based on the July VRS ranking
--Top four seeded teams advance directly to Playoffs
-- For more details, check out the landing page – https://www.playzone.cz/tipsport-open-cup-1
+- Top four seeded teams advance directly to Playoffs
+- For more details, check out the landing page: https://www.playzone.cz/tipsport-open-cup-1
 ## Additional Information
 - A definition of the filters to the VRS that Direct VRS Invites will be based on: No filter, open for anyone
 - The VRS rank from which tournament organizer will begin invitations: No invites
