@@ -68,7 +68,7 @@
 
 - Which tournament stages are online or LAN: All on LAN
 
-- The prize pool and the rules for its distribution: 11 000 € (6 000 € / 2 500 € / 1 500 / 1 000 €)
+- The prize pool and the rules for its distribution: 11 000 € (6 000 € / 2 500 € / 1 500 € / 1 000 €)
 
 - Teams are responsible for arranging their own travel and accomodation
 
